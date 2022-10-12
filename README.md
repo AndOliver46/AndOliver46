@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, JPA, SQL, WebServices**.
+- 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA, SQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
