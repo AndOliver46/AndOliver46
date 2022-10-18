@@ -46,4 +46,4 @@
 
 [![Linkedin: Anderson](https://img.shields.io/badge/-andoliver46-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andoliver46/)](https://www.linkedin.com/in/andoliver46/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anderson_souza75@live.com)
-[![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&link=https:https://www.hackerrank.com/anderson_souza75)](https://www.hackerrank.com/anderson_souza75)
+[![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&link=https:https://www.hackerrank.com/AndOliver46)](https://www.hackerrank.com/AndOliver46)
