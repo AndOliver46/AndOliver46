@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
+- :page_facing_up: &nbsp; Curso em andamento: Modelagem de dados UML - Udemy.
 - 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA, MongoDB**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -11,18 +12,22 @@
 **Aplicações e Dados**
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+  
+  ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 **Utilidades**
 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-  ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Astah](https://img.shields.io/badge/Astah-ED8B00?style=for-the-badge&logo=astah&logoColor=white)
+  ![Xaamp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitBash](https://img.shields.io/badge/-GitBash-333333?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 
 **Ferramentas de Desenvolvimento**
