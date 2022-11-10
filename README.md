@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- :page_facing_up: &nbsp; Curso em andamento: Modelagem de dados UML - Udemy.
-- 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA, MongoDB**.
+- :page_facing_up: &nbsp; Curso em andamento: HTML e CSS Básico - Origamid.
+- 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
