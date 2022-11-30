@@ -18,6 +18,7 @@ Aplicações e Dados</br>
 
 Utilidades</br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-ED8B00?style=for-the-badge&logo=astah&logoColor=white)
 ![Xaamp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white)
