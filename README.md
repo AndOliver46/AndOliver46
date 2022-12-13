@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Sempre explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- :page_facing_up: &nbsp; Curso em andamento: HTML/CSS e JavaScript Básico - Origamid.
+- :page_facing_up: &nbsp; Curso em andamento: Banco de dados SQL e NoSQL - Geek University.
 - 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA**.</br></br>
 
 Aplicações e Dados</br>
