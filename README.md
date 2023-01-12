@@ -1,10 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=AndOliver46&color=006bed)
 
+<a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndOliver46&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/></a>
+
 <h3> :technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Sempre explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- :page_facing_up: &nbsp; Curso em andamento: Banco de dados SQL e NoSQL - Geek University.
+- :page_facing_up: &nbsp; Curso em andamento: Spring Boot (Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB) - DevSuperior.
 - 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA**.</br></br>
 
 Aplicações e Dados</br>
@@ -41,6 +43,5 @@ Onde me encontrar</br>
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anderson_souza75@live.com)
 [![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&link=https:https://www.hackerrank.com/AndOliver46)](https://www.hackerrank.com/AndOliver46)
 
-GitHub Estatísticas</br>
+</br>
 <a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndOliver46&theme=dracula&hide_langs_below=1"/></a>
-<a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndOliver46&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/></a>
