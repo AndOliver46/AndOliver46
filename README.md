@@ -19,15 +19,14 @@ Aplicações e Dados</br>
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 Utilidades</br>
+![GitBash](https://img.shields.io/badge/-GitBash-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)</br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)</br>
-![Xaamp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white)</br>
+![Xaamp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-ED8B00?style=for-the-badge&logo=astah&logoColor=white)
-
-DevOps</br>
-![GitBash](https://img.shields.io/badge/-GitBash-333333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 
 Ferramentas de Desenvolvimento</br>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
