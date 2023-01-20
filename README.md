@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Sempre explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- :page_facing_up: &nbsp; Curso em andamento: Spring Boot (Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB) - DevSuperior.
+- :page_facing_up: &nbsp; Curso em andamento: Bootcamp Spring 3.0 - DevSuperior.
 - 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA**.</br></br>
 
 Aplicações e Dados</br>
