@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=AndOliver46&color=006bed)
-
 <a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndOliver46&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/></a>
 
 <h3> :technologist: &nbsp;Sobre mim </h3>
