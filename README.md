@@ -34,10 +34,5 @@ Ferramentas de Desenvolvimento</br>
 Ambientes de desenvolvimento</br>
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-Onde me encontrar</br>
-[![Linkedin: Anderson](https://img.shields.io/badge/-andoliver46-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andoliver46/)](https://www.linkedin.com/in/andoliver46/)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anderson_souza75@live.com)
-[![Hacker Rank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white&link=https:https://www.hackerrank.com/AndOliver46)](https://www.hackerrank.com/AndOliver46)
-
 </br>
 <a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndOliver46&theme=dracula&hide_langs_below=1"/></a>
