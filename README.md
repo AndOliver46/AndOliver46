@@ -3,7 +3,7 @@
 <h3> :technologist: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- :page_facing_up: &nbsp; Curso em andamento: Bootcamp Spring 3.0 - DevSuperior.
+- :page_facing_up: &nbsp; Curso em andamento: Bootcamp React - DevSuperior.
 - 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA**.</br></br>
 
 Aplicações e Dados</br>
