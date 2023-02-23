@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
 - :page_facing_up: &nbsp; Curso em andamento: Bootcamp React - DevSuperior.
-- 🌱 &nbsp; Aprendendo mais sobre **Java, SpringBoot, Hibernate, JPA**.</br></br>
+- 🌱 &nbsp; Aprendendo mais sobre **Frameworks Java, React e Docker**.</br></br>
 
 Aplicações e Dados</br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
