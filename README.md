@@ -3,7 +3,7 @@
 <h3> :technologist: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
-- :page_facing_up: &nbsp; Curso em andamento: Bootcamp React - DevSuperior.
+- :page_facing_up: &nbsp; Curso em andamento: JavaScript Completo ES6 - Origamid.
 - 🌱 &nbsp; Aprendendo mais sobre **Frameworks Java, React e Docker**.</br></br>
 
 Aplicações e Dados</br>
