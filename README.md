@@ -1,5 +1,3 @@
-<a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndOliver46&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/></a>
-
 <h3> :technologist: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Análise e desenvolvimento de sistemas** na <a href="https://www.unip.br/">Unip</a>.
@@ -36,4 +34,4 @@ Ferramentas de Desenvolvimento</br>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255)
 
 </br>
-<a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndOliver46&theme=dracula&hide_langs_below=1"/></a>
+<a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndOliver46&theme=dracula&hide_langs_below=1"/></a> <a href="https://github.com/AndOliver46"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndOliver46&show_icons=true&theme=dracula&line_height=27" alt="**AndOliver45** github stats"/></a>
